@@ -1,0 +1,17 @@
+{
+  "name": "crm-frontend",
+  "version": "1.0.0",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.0.0",
+    "axios": "^0.27.2",
+    "@mui/material": "^5.4.3",
+    "@emotion/react": "^11.7.1",
+    "@emotion/styled": "^11.6.0",
+    "react-hook-form": "^7.22.2"
+  },
+  "devDependencies": {
+    "react-scripts": "^5.0.0"
+  }
+}
