@@ -1,0 +1,10 @@
+{
+  "name": "crm-project",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "concurrently \"npm run dev --prefix server\" \"npm start --prefix client\""
+  },
+  "dependencies": {
+    "concurrently": "^7.0.0"
+  }
+}
