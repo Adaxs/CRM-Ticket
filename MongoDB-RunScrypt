@@ -1,0 +1,2 @@
+// Run this in your MongoDB shell or a script to assign an admin role
+db.users.updateOne({ email: 'admin@example.com' }, { $set: { role: 'admin' } });
